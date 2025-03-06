@@ -81,7 +81,7 @@ This will display logs that include Wi-Fi connection status, server activity, an
 ## Demonstration Video
 
 Check out the demonstration of this security system in action:  
-[YouTube Link](insert_youtube_link_here)
+[YouTube Link](https://youtube.com/shorts/0fJqUGfcC_E)
 
 
 
